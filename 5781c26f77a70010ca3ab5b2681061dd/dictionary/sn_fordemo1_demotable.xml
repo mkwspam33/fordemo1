@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="demotable" max_length="40" name="sn_fordemo1_demotable" type="collection">
+        <element label="Str1" max_length="40" name="str1" type="string"/>
+        <element label="Str2" max_length="40" name="str2" type="string"/>
+    </element>
+</database>
